@@ -1,2 +1,3 @@
 # Day-20-claude-AI-challenge-
 Day 20 of #60DaysClaudeChallenge — a browser-based Face Puzzle Game built with Claude AI. Capture your photo, slice it into a 3x3/4x4/5x5 puzzle, and solve it with drag-and-drop + touch support, live timer, move counter, and a leaderboard. Built entirely on Android, no PC used.
+Face Puzzle Game — apni photo se interactive jigsaw puzzle banaya jisme camera capture, 3 difficulty levels (3x3/4x4/5x5), drag-and-drop + touch support, live timer, move counter, aur localStorage-based leaderboard hai. Live webcam access phone pe file:// origin se block ho jaata hai, isliye native camera app trigger karne wala reliable fallback add kiya. Pehla solve: 02:08, 30 moves (3x3). Poora build Android phone se, bina PC ke.
